@@ -26,9 +26,9 @@ def gpt4_api_call(
         # Log or handle the exception 
         return f"An unexpected error occurred: {str(e)}"
 
-llm = AzureChatOpenAI(azure_endpoint = 'https://carqa-recitals-article.openai.azure.com/',
+llm = AzureChatOpenAI(azure_endpoint = 'https://xyz.openai.azure.com/',
                             openai_api_version = '2024-02-01',
-                            openai_api_key = 'c8a777d60b804da0bf534fd324da23f5',
+                            openai_api_key = '***',
                             deployment_name = 'gpt-4o',
                             temperature=0.5)
 
