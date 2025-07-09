@@ -4,7 +4,7 @@ from langchain_community.utils.math import cosine_similarity
 
 
 embedding_model = AzureOpenAIEmbeddings(
-    azure_endpoint="https://xyz/keywords-extraction/",
+    azure_endpoint="https://xyz/NLI/",
     openai_api_version= "2024-02-01",
     openai_api_key="***",
     azure_deployment="text-embedding-3-large",
