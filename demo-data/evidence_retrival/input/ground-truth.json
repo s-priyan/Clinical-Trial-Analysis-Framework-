@@ -1,0 +1,18 @@
+{
+    "9f978634-637c-472f-a588-6f4bb2fb121f": {
+        "Type": "Comparison",
+        "Section_id": "Eligibility",
+        "Primary_id": "NCT01129622",
+        "Secondary_id": "NCT01156987",
+        "Statement": "Women suffering from both claustrophobia and IBS or not eligible for either the primary trial or the secondary trial.",
+        "Label": "Contradiction",
+        "Primary_evidence_index": [
+            "  Women are eligible to participate if they are 40 years or older and have been menopausal (had no menstrual bleeding during the past 12 months)",
+            "  History of bilateral mastectomy, osteoporosis or renal impairment."
+        ],
+        "Secondary_evidence_index": [
+            "Exclusion Criteria:",
+            "  Severe claustrophobia"
+        ]
+    }
+}

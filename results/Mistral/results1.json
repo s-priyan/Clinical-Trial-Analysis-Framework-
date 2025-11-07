@@ -1,0 +1,102 @@
+[
+    {
+        "id": "9f978634-637c-472f-a588-6f4bb2fb121f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "20b34e62-97c2-4ca0-bb1d-7824dab0b8bb",
+        "label": "Contradiction"
+    },
+    {
+        "id": "893a5337-2aa9-4a87-a020-4c2f03cd4aea",
+        "label": "Entailment"
+    },
+    {
+        "id": "d401affc-f081-4eee-bd61-d109cc88f6de",
+        "label": "Based on the provided evidence, the given statement is a **\"Contradiction\"**.\n\nThe primary trial explicitly excludes participants who are \"taking part in another clinical trial within 30 days prior to screening or during the study,\" while the secondary trial does not mention any such restriction for its participants. Therefore, the statement is not supported by the evidence."
+    },
+    {
+        "id": "791790a6-187b-4e4b-be5f-9e5304e9ec2c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b95b7438-ec16-4d4d-826d-5891e7982b36",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4988cb16-7dbb-4847-84e0-4a7957b32c72",
+        "label": "Contradiction"
+    },
+    {
+        "id": "e244fc3a-53b3-4158-99c5-a45afc726af6",
+        "label": "Contradiction"
+    },
+    {
+        "id": "56530063-b408-47f2-8421-6be825f5559c",
+        "label": "Entailment"
+    },
+    {
+        "id": "d3379655-55b7-4e58-88c2-c3cd3e8cb557",
+        "label": "Contradiction"
+    },
+    {
+        "id": "7bf988b4-5e6f-41c4-bef6-7b3549dd58d9",
+        "label": "Contradiction"
+    },
+    {
+        "id": "84915e35-a8c9-4d26-ad09-4b1df48a6df8",
+        "label": "Contradiction"
+    },
+    {
+        "id": "64df451c-f868-49e6-9b4e-a325e62ce837",
+        "label": "Contradiction"
+    },
+    {
+        "id": "dc4765a3-6168-4594-969b-3ce5ea7dc02a",
+        "label": "Contradiction"
+    },
+    {
+        "id": "9c2ca035-d531-4d44-876e-6ed9f2d3f76b",
+        "label": "Contradiction"
+    },
+    {
+        "id": "7238ddd4-eade-4b88-8933-0c3df5be9875",
+        "label": "Contradiction"
+    },
+    {
+        "id": "aeddc485-09b1-4ddc-9a45-3a8bf0bec2c3",
+        "label": "Contradiction"
+    },
+    {
+        "id": "204d5293-d6e5-452a-8961-3b76d6be35c9",
+        "label": "Entailment"
+    },
+    {
+        "id": "4ed1c5fd-58e5-4fe8-97b1-59ed509ccb10",
+        "label": "Entailment"
+    },
+    {
+        "id": "6d0812b9-f9bd-4cd6-82aa-9c272eba23be",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fd0fa999-2f1c-400d-977d-2d45dd9c358c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "571d4650-e64b-4cb2-b719-0d7064e51745",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4437aa5b-4b4e-4eb4-a258-e7f17dc8f363",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d7abbd7d-a767-49c0-bc99-1c28074eac21",
+        "label": "Contradiction"
+    },
+    {
+        "id": "54c7e880-a1bf-4206-9573-1c994932ba15",
+        "label": "Entailment"
+    }
+]

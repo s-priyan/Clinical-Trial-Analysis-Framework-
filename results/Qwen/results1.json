@@ -1,0 +1,142 @@
+[
+    {
+        "id": "9f978634-637c-472f-a588-6f4bb2fb121f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "20b34e62-97c2-4ca0-bb1d-7824dab0b8bb",
+        "label": "Entailment"
+    },
+    {
+        "id": "893a5337-2aa9-4a87-a020-4c2f03cd4aea",
+        "label": "Entailment"
+    },
+    {
+        "id": "d401affc-f081-4eee-bd61-d109cc88f6de",
+        "label": "Entailment"
+    },
+    {
+        "id": "791790a6-187b-4e4b-be5f-9e5304e9ec2c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b95b7438-ec16-4d4d-826d-5891e7982b36",
+        "label": "Entailment"
+    },
+    {
+        "id": "4988cb16-7dbb-4847-84e0-4a7957b32c72",
+        "label": "Contradiction"
+    },
+    {
+        "id": "e244fc3a-53b3-4158-99c5-a45afc726af6",
+        "label": "Contradiction"
+    },
+    {
+        "id": "56530063-b408-47f2-8421-6be825f5559c",
+        "label": "Entailment"
+    },
+    {
+        "id": "d3379655-55b7-4e58-88c2-c3cd3e8cb557",
+        "label": "Contradiction"
+    },
+    {
+        "id": "7bf988b4-5e6f-41c4-bef6-7b3549dd58d9",
+        "label": "Contradiction"
+    },
+    {
+        "id": "84915e35-a8c9-4d26-ad09-4b1df48a6df8",
+        "label": "Entailment"
+    },
+    {
+        "id": "64df451c-f868-49e6-9b4e-a325e62ce837",
+        "label": "Entailment"
+    },
+    {
+        "id": "dc4765a3-6168-4594-969b-3ce5ea7dc02a",
+        "label": "Contradiction"
+    },
+    {
+        "id": "9c2ca035-d531-4d44-876e-6ed9f2d3f76b",
+        "label": "Entailment"
+    },
+    {
+        "id": "7238ddd4-eade-4b88-8933-0c3df5be9875",
+        "label": "Contradiction"
+    },
+    {
+        "id": "aeddc485-09b1-4ddc-9a45-3a8bf0bec2c3",
+        "label": "Entailment"
+    },
+    {
+        "id": "204d5293-d6e5-452a-8961-3b76d6be35c9",
+        "label": "Entailment"
+    },
+    {
+        "id": "4ed1c5fd-58e5-4fe8-97b1-59ed509ccb10",
+        "label": "Entailment"
+    },
+    {
+        "id": "6d0812b9-f9bd-4cd6-82aa-9c272eba23be",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fd0fa999-2f1c-400d-977d-2d45dd9c358c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "571d4650-e64b-4cb2-b719-0d7064e51745",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4437aa5b-4b4e-4eb4-a258-e7f17dc8f363",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d7abbd7d-a767-49c0-bc99-1c28074eac21",
+        "label": "Contradiction"
+    },
+    {
+        "id": "54c7e880-a1bf-4206-9573-1c994932ba15",
+        "label": "<think>Alright, let's tackle this question step by step. The user provided primary and secondary evidence from two different trials and a statement that needs to be evaluated as either Entailment or Contradiction based on that evidence.\n\nFirst, I need to understand the statements in the primary and secondary evidence. The primary evidence includes inclusion and exclusion criteria. The exclusion criteria mention things like multicentric breast cancer, stage IV cancer, and pregnancy. On the other hand, the secondary evidence's exclusion criteria are more extensive. They mention patients who have had chemotherapy or radiotherapy within two weeks (unless it's certain drugs which have longer periods), those with unstable angina as part of significant cardiovascular impairment, and patients with > Grade 1 neuropathy. Also, pregnancy or breastfeeding is an exclusion.\n\nThe given statement says: Patients who have received chemotherapy or radiotherapy in the last 2 weeks, suffer from unstable angina, or have Grade 2 or above neuropathy cannot take part in the secondary trial, but can still take part in the primary trial, unless they have non-healing surgical wounds.\n\nLet me break down each part. The first part says these patients are excluded from the secondary trial. Looking at the secondary exclusion criteria:\n- Chemotherapy/radiotherapy within two weeks (except some drugs) → yes, so they're excluded.\n- Unstable angina is listed under significant cardiovascular impairment → excluded.\n- Grade 2 or above neuropathy (since exclusion says > Grade 1) → excluded.\n\nSo that part of the statement aligns with the secondary trial's exclusions. The second part of the statement claims such patients can still be in the primary trial unless they have non-healing wounds. \n\nLooking at primary exclusion criteria, there's no mention of recent chemo/radiotherapy, unstable angina, or neuropathy grade. The exclusions are multicentric cancer, stage IV, pregnancy/lactating. So, the primary trial doesn't exclude those specific conditions mentioned. However, the primary's exclusion criteria don't mention anything about surgical wounds. The secondary trial's exclusion does mention non-healing wounds (Patients with non-healing surgical wounds. Patients must be at least two weeks from a major surgical procedure, etc). \n\nWait, the statement adds \"unless they have non-healing surgical wounds\". The primary's exclusion criteria don't list non-healing wounds as an exclusion, so if someone has that, they would be excluded from the primary trial? The statement says they can take part in primary unless they have non-healing wounds. But the primary trial's exclusion criteria don't mention non-healing wounds, so that part might not hold. Wait, the secondary does mention that, but primary doesn't. Therefore, non-healing wounds would not exclude them from primary unless it's in the primary's exclusions. Since it's not listed, maybe the primary trial allows them unless... but the statement's \"unless they have non-healing...\" might be incorrect because the primary trial doesn't exclude those with non-healing wounds. Therefore, if they have non-healing wounds, would they be excluded from primary? Probably not, unless it's implied. Hmm.\n\nAlternatively, the non-healing wounds are a secondary trial exclusion, not primary. So the primary trial allows them unless some other criteria. The statement's \"unless they have non-healing...\" is adding an exclusion that isn't present in the primary's criteria, making it a contradiction? \n\nWait, the statement says \"can still take part in the primary trial, unless they have non-healing surgical wounds.\" The primary trial's exclusion criteria don't mention non-healing wounds. Therefore, in the primary trial, even if they have non-healing wounds, unless that wound is part of another exclusion (but it's not listed), they can still participate. So the \"unless\" part in the statement adds a new exclusion for the primary trial that isn't there. So that part would contradict the primary's criteria. \n\nTherefore, the statement is trying to say that patients with those conditions (chemo, angina, neuropathy) can be in the primary trial unless they have non-healing wounds. But the primary trial never excluded non-healing wounds, so the \"unless\" part introduces an exclusion that isn't there, making the statement contradictory. \n\nWait, but maybe the non-healing wounds are part of the primary? Let me check primary exclusion criteria again. The primary's exclusions are:\n- Multicentric breast cancer\n- Stage IV breast cancer\n- Pregnant or lactating females\n\nNo mention of surgical wounds or non-healing wounds. Therefore, the statement's claim that such patients (with the three conditions) can be in primary unless non-healing wounds is problematic because non-healing wounds aren't in primary's exclusion. So if someone has non-healing wounds, but that's not in primary's exclusion, then they can still participate unless... no, the primary trial doesn't exclude them, so the \"unless\" is adding an exclusion that isn't there, which is not correct. Therefore, the statement is incorrect in that part, so the entire given statement may be a contradiction. \n\nAlternatively, maybe the secondary trial's exclusion about non-healing wounds is separate. The statement is combining parts. Because the statement's main point is about the two trials. \n\nSo the first part of the statement is correct: those patients are excluded from the secondary trial. However, the second part that they can be in primary unless non-healing wounds is not accurate because primary trial doesn't exclude non-healing wounds. Therefore, even if a patient has non-healing wounds, unless another exclusion applies, they can still be in primary. Hence the statement's \"unless\" part is wrong, making the entire statement a contradiction. \n\nAlternatively, perhaps the non-healing wounds were part of primary's inclusion criteria indirectly. But the primary evidence does not list them. So conclusion: the statement's assertion is a contradiction because it assumes the primary trial has an exclusion for non-healing wounds which it does not. Therefore, the correct answer is Contradiction.\n</think>\n\nContradiction"
+    },
+    {
+        "id": "f9f0ba74-16e0-4790-afa0-b7616b256e5e",
+        "label": "Entailment"
+    },
+    {
+        "id": "412583db-ce19-451d-a804-3837e4dcaea3",
+        "label": "Contradiction"
+    },
+    {
+        "id": "bca4c94d-4a49-4e05-82ed-0d5c9707685b",
+        "label": "Entailment"
+    },
+    {
+        "id": "97acf304-2707-4a1b-81e7-339fde2ed0ee",
+        "label": "Contradiction"
+    },
+    {
+        "id": "21a5f296-5b3c-4860-be64-77ffb8f76501",
+        "label": "Entailment"
+    },
+    {
+        "id": "8d27bb53-e66e-4eab-bea4-0597fd5760b5",
+        "label": "Contradiction"
+    },
+    {
+        "id": "dc60304d-6fd2-4b12-9108-b5ce78454d42",
+        "label": "Contradiction"
+    },
+    {
+        "id": "328417f9-8f45-4114-82d7-9396b6bc578e",
+        "label": "Contradiction"
+    },
+    {
+        "id": "40d84c7b-e126-4d6f-9588-eb9c385ca716",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b685be77-9c55-4948-99cc-2a249739a233",
+        "label": "Contradiction"
+    }
+]

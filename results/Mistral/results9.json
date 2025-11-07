@@ -1,0 +1,102 @@
+[
+    {
+        "id": "78aec7ae-20b1-413b-9cb7-9757274ff1aa",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b3b66b49-6a4c-4c26-b46c-915ab45374ff",
+        "label": "Contradiction"
+    },
+    {
+        "id": "73876da9-0c79-43eb-9d1f-b7f2d729f43c",
+        "label": "Entailment"
+    },
+    {
+        "id": "9c7521a7-87fc-4dc0-8c1e-5720836763e2",
+        "label": "Contradiction"
+    },
+    {
+        "id": "ffacecd7-caae-434a-866d-a3a25d4f00ac",
+        "label": "Entailment"
+    },
+    {
+        "id": "458419cf-ea6f-4939-ba2e-856b8d89b985",
+        "label": "Contradiction"
+    },
+    {
+        "id": "7482499c-6836-4f68-83f4-4af09b14d566",
+        "label": "Based on the provided evidence:\n\n- For **Adverse Events 2**, the primary evidence states:\n  - Total: 0/28 (0.00%)\n  - Death * [1]: 0/28 (0.00%)\n  - Hospitalization [2]: 0/28 (0.00%)\n  - Hospitalization [3]: 0/28 (0.00%)\n\nNo deaths or hospitalizations are reported in cohort 2.\n\n**Label:**\nEntailment"
+    },
+    {
+        "id": "a0d99371-52e5-4d30-81d5-ad65feba2e4e",
+        "label": "Contradiction"
+    },
+    {
+        "id": "47bcd1c5-f95d-4e21-a999-4bd220c5b940",
+        "label": "Entailment"
+    },
+    {
+        "id": "cc411bc6-900e-4ef3-96ef-09f6e5565a18",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1943100e-196d-4022-a38a-9ae0dd816294",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d11356c5-cf48-40dc-aa23-46e71f564afd",
+        "label": "Entailment"
+    },
+    {
+        "id": "f8e8c733-3fc0-4699-814f-b5d505c71435",
+        "label": "Contradiction"
+    },
+    {
+        "id": "dfea11ab-1a3f-4a76-9fae-96d486f76e10",
+        "label": "Entailment"
+    },
+    {
+        "id": "285b3905-8e47-4b26-8aa5-2d9d7f717a6c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "92935ccc-f20d-4e27-9a5f-cb8d47162de6",
+        "label": "Contraindiction"
+    },
+    {
+        "id": "74308ad0-4b9d-4632-9580-5e280dedbc77",
+        "label": "Contradiction"
+    },
+    {
+        "id": "487dd970-35e7-4a7d-8bb6-e8fa98f574aa",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1cda1a1d-3ca1-4838-9054-bcab763bb5d0",
+        "label": "Contradiction"
+    },
+    {
+        "id": "9228fe22-ca97-4ca9-ad78-f8dba1ac27b0",
+        "label": "Contradiction"
+    },
+    {
+        "id": "aecd2958-c3b4-4d87-82f1-07add215b1e8",
+        "label": "Contradiction"
+    },
+    {
+        "id": "590f240e-7499-432e-aa3c-f54eda69ed46",
+        "label": "Contradiction"
+    },
+    {
+        "id": "561d1a70-6bd1-42f7-9e2a-73b9622a449c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1af4d0ac-d0f2-402a-8bdb-0e10c0823b0f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "c8235719-3fd8-43e9-8ba6-d99393220240",
+        "label": "Contradiction"
+    }
+]

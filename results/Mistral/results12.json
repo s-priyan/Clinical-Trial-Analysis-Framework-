@@ -1,0 +1,102 @@
+[
+    {
+        "id": "bc7b62ad-797e-419e-b5f9-888117aedf6b",
+        "label": "Contradiction"
+    },
+    {
+        "id": "5261c924-d9ef-43ed-8f2a-6c5b1552cc62",
+        "label": "Entailment"
+    },
+    {
+        "id": "b5e896cf-e971-4fac-8dc6-a19e2c2d0a72",
+        "label": "Contradiction"
+    },
+    {
+        "id": "2bf9e0d9-1195-4c03-b2bc-d491ff1cd174",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1bf99d45-84a7-41cb-8263-d1ccb489bc66",
+        "label": "Contradiction"
+    },
+    {
+        "id": "adfed785-8da6-4bf4-836f-2dfadf0510b6",
+        "label": "Entailment"
+    },
+    {
+        "id": "523d79a3-ee67-4b2a-a1cb-20ed4ed45dc6",
+        "label": "Contradiction"
+    },
+    {
+        "id": "2a0b1a83-299d-404d-96e5-67ee65173dde",
+        "label": "Entailment"
+    },
+    {
+        "id": "25cbaa44-4715-417b-9bd0-12fef06053b8",
+        "label": "Contradiction"
+    },
+    {
+        "id": "0f31bc6a-a228-49c2-afff-4177ef850272",
+        "label": "Contradiction"
+    },
+    {
+        "id": "bf3034ec-679a-42d1-9d24-69b51c602233",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fbde81ad-0d06-4d2a-8baa-eb5eace1b3ec",
+        "label": "Contradiction"
+    },
+    {
+        "id": "5e6797ef-370c-4b35-9e1d-37e694b538a6",
+        "label": "Contradiction"
+    },
+    {
+        "id": "28a88ea8-4cea-404c-9ad7-cb1be9c19d7f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "59a0bff2-c254-45f1-a6ae-2d847777db94",
+        "label": "Contradiction"
+    },
+    {
+        "id": "44412911-1f34-4841-a795-86eed5a209d7",
+        "label": "Entailment"
+    },
+    {
+        "id": "505ccc8c-b07a-4902-b8c3-4d3b4891779a",
+        "label": "Entailment"
+    },
+    {
+        "id": "58614e8d-770e-4bfe-b74b-e2d429ef072f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d118efb5-ea31-49ca-8e20-686c85081e94",
+        "label": "Contradiction"
+    },
+    {
+        "id": "5a181517-dbdc-4598-8955-ca1bfa380fa9",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4adbcbcc-ae43-46af-a072-815d1e788f29",
+        "label": "Contradiction"
+    },
+    {
+        "id": "10f7c7cf-b7e2-4d21-8870-1fdbcc7937f5",
+        "label": "Entailment"
+    },
+    {
+        "id": "bd5d8368-5c1d-41b8-9fb3-f174da18744f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d1a7cbaa-161a-4675-b8b7-67ae364be364",
+        "label": "Contradiction"
+    },
+    {
+        "id": "574106ef-1b9c-4540-a89f-5100a9bbe798",
+        "label": "Contradiction"
+    }
+]

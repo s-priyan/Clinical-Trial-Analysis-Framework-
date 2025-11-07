@@ -1,0 +1,102 @@
+[
+    {
+        "id": "8180d5e0-b284-45fe-a390-0c3a54dc663f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "87fda661-4348-4078-b3e7-915893241ab0",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4bc60955-6137-4496-b780-5fb8e90dc3ed",
+        "label": "Contradiction"
+    },
+    {
+        "id": "7ad6c209-8893-4a2d-963d-24666ef93a80",
+        "label": "Contradiction"
+    },
+    {
+        "id": "a06166e6-12c9-49ba-ad3a-7fcfb5234174",
+        "label": "Contradiction"
+    },
+    {
+        "id": "73feb437-66f3-44fd-8d9c-ab3204e6eac3",
+        "label": "Contradiction"
+    },
+    {
+        "id": "927d72b0-1f55-4803-9a86-40838c08f923",
+        "label": "Entailment"
+    },
+    {
+        "id": "19e0531d-7907-46b0-ab0c-e616746498e9",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fc281ab7-f956-47d7-a938-8778fef1bca0",
+        "label": "Contradiction"
+    },
+    {
+        "id": "6261a694-0407-4840-8a87-3a0c6f9dea4f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "9730b1a6-e9cd-4fd6-b1e4-9916b5903c63",
+        "label": "Contradiction"
+    },
+    {
+        "id": "2fb3af20-adda-4fee-860a-ce376d3a0bb2",
+        "label": "Contradiction"
+    },
+    {
+        "id": "f8dbd18d-2b55-4f0f-92a7-db3b1ecc3b6d",
+        "label": "Contradiction"
+    },
+    {
+        "id": "dd27a6e7-3b83-4a84-bc40-5ba39617a1c1",
+        "label": "Contradiction"
+    },
+    {
+        "id": "113abff0-a728-40a6-b637-8bd60a53e626",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1cb125fb-0be1-49c6-b68b-64b525278c9c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fd0b22b0-c86d-4460-bf53-310901404ef5",
+        "label": "Entailment"
+    },
+    {
+        "id": "c0151b24-14ab-4837-965d-88bb8115a560",
+        "label": "Contradiction"
+    },
+    {
+        "id": "1d66459b-4624-4ea0-9cda-992c4146a454",
+        "label": "Contradiction"
+    },
+    {
+        "id": "73981f59-887e-4778-a78a-0bf7b7a405b7",
+        "label": "Contradiction"
+    },
+    {
+        "id": "dbd5f70e-0fa9-4b5e-af0e-0ad9efc49bc6",
+        "label": "Based on the provided evidence, the statement is:\n\nContradiction"
+    },
+    {
+        "id": "5599d5d8-3a7b-41ce-a00c-6e0b609b618d",
+        "label": "Contradiction"
+    },
+    {
+        "id": "84942825-f636-4dcf-af2e-172012c0cc9d",
+        "label": "Contradiction"
+    },
+    {
+        "id": "e4b448ba-15ad-4cf8-9343-782d45166891",
+        "label": "Contradiction"
+    },
+    {
+        "id": "27aec260-8dcc-4611-8389-dc9c10d3518d",
+        "label": "Contradiction"
+    }
+]

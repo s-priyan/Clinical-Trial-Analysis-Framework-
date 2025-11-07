@@ -1,0 +1,42 @@
+[
+    {
+        "id": "9f978634-637c-472f-a588-6f4bb2fb121f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "20b34e62-97c2-4ca0-bb1d-7824dab0b8bb",
+        "label": "Entailment"
+    },
+    {
+        "id": "893a5337-2aa9-4a87-a020-4c2f03cd4aea",
+        "label": "Entailment"
+    },
+    {
+        "id": "d401affc-f081-4eee-bd61-d109cc88f6de",
+        "label": "Entailment"
+    },
+    {
+        "id": "791790a6-187b-4e4b-be5f-9e5304e9ec2c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b95b7438-ec16-4d4d-826d-5891e7982b36",
+        "label": "Entailment"
+    },
+    {
+        "id": "4988cb16-7dbb-4847-84e0-4a7957b32c72",
+        "label": "Contradiction"
+    },
+    {
+        "id": "e244fc3a-53b3-4158-99c5-a45afc726af6",
+        "label": "Contradiction"
+    },
+    {
+        "id": "56530063-b408-47f2-8421-6be825f5559c",
+        "label": "Entailment"
+    },
+    {
+        "id": "d3379655-55b7-4e58-88c2-c3cd3e8cb557",
+        "label": "Contradiction"
+    }
+]

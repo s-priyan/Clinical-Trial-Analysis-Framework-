@@ -1,0 +1,142 @@
+[
+    {
+        "id": "17660aaf-9218-4119-b00c-f3b863718e97",
+        "label": "Contradiction"
+    },
+    {
+        "id": "291150cd-0d45-46c7-9a44-d781098bc3eb",
+        "label": "Contradiction"
+    },
+    {
+        "id": "403ad287-6e25-4db0-a66b-fe4a7f15a983",
+        "label": "Contradiction"
+    },
+    {
+        "id": "c389c3cc-2e76-4219-996d-3aa5a925fec7",
+        "label": "Contradiction"
+    },
+    {
+        "id": "6f0571f4-e1da-4732-9bdf-8c07bea059c1",
+        "label": "Contradiction"
+    },
+    {
+        "id": "c6ca9f93-1abb-4c01-bdfb-aa17c5028ec8",
+        "label": "Contradiction"
+    },
+    {
+        "id": "b16d4167-cb81-44c0-b20d-d1ecbf0bc094",
+        "label": "Contradiction"
+    },
+    {
+        "id": "36cbd8dd-9c77-496c-ab43-af1942c86339",
+        "label": "Contradiction"
+    },
+    {
+        "id": "50dae016-a6b4-4ee6-a66a-bf35587cd835",
+        "label": "Entailment"
+    },
+    {
+        "id": "c63468c0-324f-4528-b83f-a588ccf7b680",
+        "label": "Contradiction"
+    },
+    {
+        "id": "ef2af81d-e19c-49c9-8ff0-309b87eb6f38",
+        "label": "Entailment"
+    },
+    {
+        "id": "4714a31c-c7ca-49e2-aa71-6665b65ed04f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "570b88e9-5036-4ea8-80db-0f48696700af",
+        "label": "Contradiction"
+    },
+    {
+        "id": "f7de4d97-31e4-48e0-ab1a-1e3d8a152e8b",
+        "label": "Entailment"
+    },
+    {
+        "id": "8d685159-80a2-4b2c-8ca3-066d03e1cf66",
+        "label": "Contradiction"
+    },
+    {
+        "id": "5e93b7d7-89d9-47cd-98b4-5897823889fa",
+        "label": "Entailment"
+    },
+    {
+        "id": "2e42ac97-e353-4bbc-b61e-391e0c092689",
+        "label": "Entailment"
+    },
+    {
+        "id": "0585f6bd-d582-4fc9-b96b-1355fa083e33",
+        "label": "Contradiction"
+    },
+    {
+        "id": "4f1bafd9-361f-4981-b6fd-46af736141b4",
+        "label": "Entailment"
+    },
+    {
+        "id": "c91a6c5a-27f1-4e7b-8f91-34e3d2236e8b",
+        "label": "Contradiction"
+    },
+    {
+        "id": "0bb34f7b-d21a-4057-876a-25c722e6d50e",
+        "label": "Contradiction"
+    },
+    {
+        "id": "3f15d923-bf66-4188-8714-c9ae4921de1f",
+        "label": "Entailment"
+    },
+    {
+        "id": "9562c377-c748-46d7-a5f2-eb492d20e477",
+        "label": "Entailment"
+    },
+    {
+        "id": "1e24905e-7bf9-4a79-8157-8948f108ecb7",
+        "label": "Contradiction"
+    },
+    {
+        "id": "57656a6d-8e1c-4cb8-b80d-605174d0577c",
+        "label": "Contradiction"
+    },
+    {
+        "id": "c5ece9f7-9119-4fa2-b60d-f2f15c68ae02",
+        "label": "Contradiction"
+    },
+    {
+        "id": "8f8be6b6-df75-4757-bc64-b2fbc8849f70",
+        "label": "Entailment"
+    },
+    {
+        "id": "520f44e8-b74b-44a6-a7cf-496275847af1",
+        "label": "Entailment"
+    },
+    {
+        "id": "0c902de2-30b5-4ab8-9739-70be987d043a",
+        "label": "[\"Entailment\"]"
+    },
+    {
+        "id": "8b98421d-1cec-41bd-b25e-2e73c362193a",
+        "label": "Contradiction"
+    },
+    {
+        "id": "62441471-f329-4540-9d4e-dc34c4d08d59",
+        "label": "Contradiction"
+    },
+    {
+        "id": "d1d5671f-79dd-4fd3-a4aa-b5f81d8a944f",
+        "label": "Contradiction"
+    },
+    {
+        "id": "cf45d975-0c29-4cf3-8f21-c245482a2b32",
+        "label": "Contradiction"
+    },
+    {
+        "id": "fb011e19-d4fb-4e6c-b7c9-7a7238f78970",
+        "label": "Entailment"
+    },
+    {
+        "id": "fd800c89-d30c-4a9a-970b-5385deeab52f",
+        "label": "Contradiction"
+    }
+]
